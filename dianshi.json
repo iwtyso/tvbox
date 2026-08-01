@@ -5,14 +5,12 @@
   ],
   "wallpaper": "https://qist.cc/api/api.php",
   "sites": [
-   {
-      "key": "豆瓣1",
-      "name": "📢公告❤更新0801❤",
+  {
+      "key": "豆瓣2",
+      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
       "type": 3,
-      "api": "csp_Notice",
-      "searchable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a",
-      "ext": "https://xn--jory77o.u.xn--dkw.xn--6qq986b3xl/m/公告?b=双龙"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {"key": "drpy_js_豆瓣","name": "搜索 | 豆瓣[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "配置中心","name": "配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
