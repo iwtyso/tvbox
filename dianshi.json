@@ -12,7 +12,7 @@
       "api": "csp_Douban",
       "searchable": 1,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
-      "ext": "https://xn--jory77o.u.xn--dkw.xn--6qq986b3xl/m/?ou=公众号装歌app&mz=index&jar=index&b=双龙"
+     // "ext": "https://xn--jory77o.u.xn--dkw.xn--6qq986b3xl/m/?ou=公众号装歌app&mz=index&jar=index&b=双龙"
     },
     {"key": "drpy_js_豆瓣","name": "搜索 | 豆瓣[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "配置中心","name": "配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
