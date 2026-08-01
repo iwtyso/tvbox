@@ -7,7 +7,7 @@
   "sites": [
   {
       "key": "豆瓣2",
-      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "name": "📢搜索 | 豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
